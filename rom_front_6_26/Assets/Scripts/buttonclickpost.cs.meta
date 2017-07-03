@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 06bb30c3247ebe741acc3274e021dd3a
+timeCreated: 1492932474
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - arrayPatientListGameObject: {instanceID: 0}
+  - arrayCheckDateListGameObject: {instanceID: 0}
+  - arrayDoctorCheckDateListGameObject: {instanceID: 0}
+  - patientListButton: {fileID: 131188, guid: 8f19a19e4a5d971428e84b3f8aa24d57, type: 2}
+  - docterPatientListButton: {fileID: 143846, guid: fdd97e0eedcf0954eaed2c9d6cef2127,
+      type: 2}
+  - checkDateListPenal: {fileID: 142342, guid: 1a858e9de1c92ed4783205d6035c932b, type: 2}
+  - doctorCheckDateListButton: {fileID: 155770, guid: d823340fab3267e40a0212955609d0aa,
+      type: 2}
+  - graphPanel: {instanceID: 0}
+  - textRect: {instanceID: 0}
+  - tooltip: {instanceID: 0}
+  - tooltipText: {instanceID: 0}
+  - dropDown: {instanceID: 0}
+  - scrollRect: {instanceID: 0}
+  - contentRect: {instanceID: 0}
+  - dot: {instanceID: 0}
+  - date: {instanceID: 0}
+  - angle: {instanceID: 0}
+  - PNG_Image: {fileID: 114819482539766492, guid: 2afa3dfeeebdce043b442764628b5205,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
