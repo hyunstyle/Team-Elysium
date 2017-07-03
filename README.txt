@@ -1,11 +1,7 @@
-SW ¸¶¿¡½ºÆ®·Î Á¦Ãâ¿ë ÇÁ·ÎÁ§Æ®
+SW ë§ˆì—ìŠ¤íŠ¸ë¡œ ì œì¶œìš© í”„ë¡œì íŠ¸
 
-ÆÀ ¿¤¸®½Ã¿ò ±â¹ĞÀ¯Áö ¼­¾à¼­¸¦ ÀÌÇàÇÏ±âÀ§ÇØ »ó´çºÎºĞÀÇ ¸ŞÀÎ ÄÚµå°¡ Áö¿öÁ®ÀÖÀ¸¸ç,
-php µîÀÇ ºÎºĞ ¶ÇÇÑ ¾÷µ¥ÀÌÆ® µÇ¾î ÀÖÁö ¾Ê´Ù.
+íŒ€ ì—˜ë¦¬ì‹œì›€ ê¸°ë°€ìœ ì§€ ì„œì•½ì„œë¥¼ ì´í–‰í•˜ê¸°ìœ„í•´ ìƒë‹¹ë¶€ë¶„ì˜ ë©”ì¸ ì½”ë“œê°€ ì§€ì›Œì ¸ìˆìœ¼ë©°, php, web ë“±ì˜ ì½”ë“œëŠ” í¬í•¨ë˜ì–´ ìˆì§€ ì•ŠìŠµë‹ˆë‹¤.
 
-º»ÀÎÀÌ Âü¿©ÇÑ ºÎºĞÀº ¸ŞÀÎ c# Å¬¶óÀÌ¾ğÆ®, php ºÎºĞÀ» ´ã´çÇÏ¿´½À´Ï´Ù.
+ë³¸ì¸ì´ ì´ í”„ë¡œì íŠ¸ì—ì„œ ì°¸ì—¬í•œ ë¶€ë¶„ì€ Unityë¥¼ í™œìš©í•œ client side, Kinect server side(c# script)ì…ë‹ˆë‹¤.
 
-In order to fulfill the Team Elysium Confidentiality Agreement, a substantial amount of the main code has been erased,
-Php etc. are not updated either.
-
-My main part was the main c # client, php part.
+LICENSE & Copyright : Team-Elysium 2017 All rights reserved.
